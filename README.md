@@ -2,13 +2,9 @@
 本项目专注于更新可武器化的利用代码及批量脚本，不含漏洞分析
 
 # 0x01 法律法规
-该项目仅供合法的渗透测试以及爱好者参考学习，请各位遵守《中华人民共和国网络安全法》以及相应地方的法律，禁止使用该项目进行违法操作，否则自行承担相关责任！
+该项目仅供合法的渗透测试使用或爱好者参考学习，请各位遵守《中华人民共和国网络安全法》以及相应地方的法律，禁止使用该项目进行违法操作，否则自行承担相关责任！
 
-# 0x02 漏洞查询
-https://www.exploit-db.com/  
-https://github.com/r0eXpeR/redteam_vul
-
-# 0x03 复现模板
+# 0x02 复现模板
 ```
 # 0x00 软件介绍
 JumpServer：一款在中国流行的开源堡垒机
@@ -45,6 +41,5 @@ chrome下安装扩展：https://chrome.google.com/webstore/detail/websocket-test
 无
 
 # 0x06 参考链接
-https://articles.zsxq.com/id_5raonmuwqrru.html  
-https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247497420&idx=1&sn=49b6179b24a4275f016a80b16ba401aa&chksm=ec9f2fbfdbe8a6a9318f7ba90eaca911692ae24f72591225efb19eab4852cf8e893936ee2a06&mpshare=1&scene=1&srcid=01183gic1iE9CgPOeU1ZKNoQ&sharer_sharetime=1610978241607&sharer_shareid=39e4b7efe0bb5b2e5770f3a926f3062d&exportkey=AUvxarwZSXcAl0lXgRSI%2F2o%3D&pass_ticket=rI5WvWxPWj9wFDSMj42xLhizShWaMpx4MwP7SFhDHLUZpJ0zrnUrOlEEfOlgFO8t&wx_header=0#rd
+https://articles.zsxq.com/id_5raonmuwqrru.html
 ```
